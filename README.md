@@ -1,5 +1,5 @@
 # javaMatic
-This is my coding exercise for my job application for Northern Trust. 
+Simple Java Vending Machine Project
 
 To run this program follow these simple steps:
 1. Download the javaMatic.java file
